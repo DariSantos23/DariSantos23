@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome
 
 🎓 **Statistics Student** | **UFSCar**  
 💻 **Aspiring Data Scientist** | Passionate about Data Engineering, Economics, and Sports Analytics  
