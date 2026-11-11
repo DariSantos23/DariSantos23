@@ -1,5 +1,5 @@
 # Welcome!
-I'm **Dariush**, a 20-year-old student from Brazil.  
+I'm **Dariush**, a 21-year-old student from Brazil.  
 
 🎓 **Math Student** | **USP**  
 💻 **Aspiring Data Scientist** | Passionate about Data Engineering, Economics, and Sports Analytics  
